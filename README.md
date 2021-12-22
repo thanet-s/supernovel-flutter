@@ -1,4 +1,4 @@
-# touristapp
+# Super novel
 
 A new Flutter project.
 
